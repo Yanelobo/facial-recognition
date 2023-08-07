@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/facial-recognition/static/css/main.38fcfc78.css",
+    "main.js": "/facial-recognition/static/js/main.df1c5964.js",
+    "static/js/787.50e7865e.chunk.js": "/facial-recognition/static/js/787.50e7865e.chunk.js",
+    "static/media/logo.png": "/facial-recognition/static/media/logo.1ece67e8557b2d60c468.png",
+    "index.html": "/facial-recognition/index.html",
+    "main.38fcfc78.css.map": "/facial-recognition/static/css/main.38fcfc78.css.map",
+    "main.df1c5964.js.map": "/facial-recognition/static/js/main.df1c5964.js.map",
+    "787.50e7865e.chunk.js.map": "/facial-recognition/static/js/787.50e7865e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38fcfc78.css",
+    "static/js/main.df1c5964.js"
+  ]
+}
